@@ -1,6 +1,6 @@
 # Casino Blackjack Game
 ---
-![BlackJack](https://drive.google.com/uc?id=1RfAegIpPxCYOGRMwvRSPZYtoqizF8Dhc)
+![Refresh the page if image not loaded](https://drive.google.com/uc?id=1RfAegIpPxCYOGRMwvRSPZYtoqizF8Dhc)
 ---
 ### This is a simple text-based BlackJack game with following features:
   - Multiple players versus an automated dealer
@@ -23,4 +23,4 @@ It is based on OOP and includes following modules:
   - Include 'SPLIT' and 'SURRENDER' game moves.
 
 ### Example of the Game result window:
-&nbsp;&nbsp;&nbsp;&nbsp;![Example1](https://drive.google.com/uc?id=1IjwD3O7QL-fQLr3Mwg5uzVbE2fLKtE4J)
+&nbsp;&nbsp;&nbsp;&nbsp;![Refresh the page if image not loaded](https://drive.google.com/uc?id=1IjwD3O7QL-fQLr3Mwg5uzVbE2fLKtE4J)
